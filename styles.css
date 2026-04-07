@@ -1,3 +1,5 @@
-p { 
-  color: blue;
-}
+<style>
+  p { 
+    color: green;
+  }
+</style>
